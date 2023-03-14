@@ -1,0 +1,8 @@
+@article{REPO-385,
+    author = "Tang, Meng and Liu, Yimin and Durlofsky, Louis J.",
+    journal = "Journal of Computational Physics",
+    pages = "109456",
+    title = "{A Deep-Learning-Based Surrogate Model for Data Assimilation in Dynamic Subsurface Flow Problems}",
+    volume = "413",
+    year = "2020"
+}
